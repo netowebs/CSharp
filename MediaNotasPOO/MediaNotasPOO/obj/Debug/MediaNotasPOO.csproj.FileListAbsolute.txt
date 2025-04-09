@@ -1,0 +1,7 @@
+C:\CSharp\MediaNotasPOO\MediaNotasPOO\obj\Debug\MediaNotasPOO.csproj.AssemblyReference.cache
+C:\CSharp\MediaNotasPOO\MediaNotasPOO\obj\Debug\MediaNotasPOO.csproj.CoreCompileInputs.cache
+C:\CSharp\MediaNotasPOO\MediaNotasPOO\bin\Debug\MediaNotasPOO.exe.config
+C:\CSharp\MediaNotasPOO\MediaNotasPOO\bin\Debug\MediaNotasPOO.exe
+C:\CSharp\MediaNotasPOO\MediaNotasPOO\bin\Debug\MediaNotasPOO.pdb
+C:\CSharp\MediaNotasPOO\MediaNotasPOO\obj\Debug\MediaNotasPOO.exe
+C:\CSharp\MediaNotasPOO\MediaNotasPOO\obj\Debug\MediaNotasPOO.pdb

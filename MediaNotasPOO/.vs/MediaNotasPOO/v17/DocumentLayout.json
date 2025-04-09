@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\CSharp\\MediaNotasPOO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{48E5580B-C1B1-4411-8F6B-C46ED98453FD}|MediaNotasPOO\\MediaNotasPOO.csproj|c:\\csharp\\medianotaspoo\\medianotaspoo\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48E5580B-C1B1-4411-8F6B-C46ED98453FD}|MediaNotasPOO\\MediaNotasPOO.csproj|solutionrelative:medianotaspoo\\aluno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{48E5580B-C1B1-4411-8F6B-C46ED98453FD}|MediaNotasPOO\\MediaNotasPOO.csproj|c:\\csharp\\medianotaspoo\\medianotaspoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{48E5580B-C1B1-4411-8F6B-C46ED98453FD}|MediaNotasPOO\\MediaNotasPOO.csproj|solutionrelative:medianotaspoo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Aluno.cs",
+              "DocumentMoniker": "C:\\CSharp\\MediaNotasPOO\\MediaNotasPOO\\Aluno.cs",
+              "RelativeDocumentMoniker": "MediaNotasPOO\\Aluno.cs",
+              "ToolTip": "C:\\CSharp\\MediaNotasPOO\\MediaNotasPOO\\Aluno.cs",
+              "RelativeToolTip": "MediaNotasPOO\\Aluno.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T22:54:04.548Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\CSharp\\MediaNotasPOO\\MediaNotasPOO\\Program.cs",
+              "RelativeDocumentMoniker": "MediaNotasPOO\\Program.cs",
+              "ToolTip": "C:\\CSharp\\MediaNotasPOO\\MediaNotasPOO\\Program.cs",
+              "RelativeToolTip": "MediaNotasPOO\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwBsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T22:52:28.434Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
