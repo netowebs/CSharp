@@ -1,0 +1,7 @@
+C:\CSharp\Exer_Polimorfismo\Exer_Polimorfismo\bin\Debug\Exer_Polimorfismo.exe.config
+C:\CSharp\Exer_Polimorfismo\Exer_Polimorfismo\bin\Debug\Exer_Polimorfismo.exe
+C:\CSharp\Exer_Polimorfismo\Exer_Polimorfismo\bin\Debug\Exer_Polimorfismo.pdb
+C:\CSharp\Exer_Polimorfismo\Exer_Polimorfismo\obj\Debug\Exer_Polimorfismo.csproj.AssemblyReference.cache
+C:\CSharp\Exer_Polimorfismo\Exer_Polimorfismo\obj\Debug\Exer_Polimorfismo.csproj.CoreCompileInputs.cache
+C:\CSharp\Exer_Polimorfismo\Exer_Polimorfismo\obj\Debug\Exer_Polimorfismo.exe
+C:\CSharp\Exer_Polimorfismo\Exer_Polimorfismo\obj\Debug\Exer_Polimorfismo.pdb
